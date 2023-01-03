@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 body {
-    margin: 0;
-    padding: 0;
     font-family: 'Quicksand', Arial, sans-serif;
+    border: 5px;
+    margin: 5px;
 }
 
 html,
@@ -34,6 +34,11 @@ h1 {
     top: 10px;
     right: 10px;
     width: 100px;
+}
+
+main {
+    border: 5px;
+    padding: 10px;
 }
 
 .box1 {

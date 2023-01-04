@@ -67,6 +67,11 @@ main {
     padding: 5px;
 }
 
+#map {
+    height: 250px; /* The height is 400 pixels */
+    width: 100%; /* The width is the width of the web page */
+  }
+
 footer {
     background-color: #24d9f1;
     color: #4d4c4f;

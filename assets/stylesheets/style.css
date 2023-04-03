@@ -49,6 +49,11 @@ main {
     padding: 5px
 }
 
+.box1 a {
+    color: #4d4c4f;
+    text-decoration: underline;
+}
+
 .box2 {
     color: #24d9f1;
     background-color: #4d4c4f;
@@ -58,6 +63,11 @@ main {
     padding: 5px;
 }
 
+.box2 a {
+    color: #24d9f1;
+    text-decoration: underline;
+}
+
 .box3 {
     color: #4d4c4f;
     background-color: #24d9f1;
@@ -65,6 +75,11 @@ main {
     border-width: 1px;
     border-color: #4d4c4f;
     padding: 5px;
+}
+
+.box3 a {
+    color: #4d4c4f;
+    text-decoration: underline;
 }
 
 #map {
